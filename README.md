@@ -1,35 +1,12 @@
 # Student Project
-
 A Python project created using Poetry.
-
 ## Requirements
-
 - Python 3.11+
 - Poetry
-
 ## Installation
-
-Clone the repository:
-
-```powershell
-git clone <repository-url>
-cd student_project
-```
-
-Install dependencies:
-
-```
-poetry install
-```
-
+Clone the repository and open it in VS Code
+Install dependencies using Poetry.
 ## Run
-
-```
-poetry run python src\student_project\main.py
-```
-
+Open `src/student_project/main.py` in VS Code and select **Run Python File**.
 ## Test
-
-```
-poetry run pytest
-```
+Open the Testing view in VS Code and run the tests.
